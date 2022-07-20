@@ -1,0 +1,15 @@
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\bin\Debug\net6.0\ManagerMovies.Contracts.deps.json
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\bin\Debug\net6.0\ManagerMovies.Contracts.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\bin\Debug\net6.0\ManagerMovies.Contracts.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\bin\Debug\net6.0\ManagerMovies.Domain.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\bin\Debug\net6.0\ManagerMovies.Domain.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.AssemblyInfoInputs.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.AssemblyInfo.cs
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.csproj.CopyComplete
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\refint\ManagerMovies.Contracts.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ManagerMovies.Contracts.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Contracts\obj\Debug\net6.0\ref\ManagerMovies.Contracts.dll

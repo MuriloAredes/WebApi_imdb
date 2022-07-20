@@ -1,0 +1,12 @@
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\bin\Debug\net6.0\ManagerMovies.Domain.deps.json
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\bin\Debug\net6.0\ManagerMovies.Domain.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\bin\Debug\net6.0\ManagerMovies.Domain.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ManagerMovies.Domain.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ManagerMovies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ManagerMovies.Domain.AssemblyInfoInputs.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ManagerMovies.Domain.AssemblyInfo.cs
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ManagerMovies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ManagerMovies.Domain.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\refint\ManagerMovies.Domain.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ManagerMovies.Domain.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Domain\obj\Debug\net6.0\ref\ManagerMovies.Domain.dll

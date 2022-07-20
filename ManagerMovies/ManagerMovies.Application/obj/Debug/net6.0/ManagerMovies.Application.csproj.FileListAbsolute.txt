@@ -1,0 +1,17 @@
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\bin\Debug\net6.0\ManagerMovies.Application.deps.json
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\bin\Debug\net6.0\ManagerMovies.Application.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\bin\Debug\net6.0\ManagerMovies.Application.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\bin\Debug\net6.0\ManagerMovies.Contracts.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\bin\Debug\net6.0\ManagerMovies.Domain.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\bin\Debug\net6.0\ManagerMovies.Contracts.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\bin\Debug\net6.0\ManagerMovies.Domain.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.AssemblyInfoInputs.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.AssemblyInfo.cs
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.csproj.CopyComplete
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\refint\ManagerMovies.Application.dll
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ManagerMovies.Application.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\teste\ManagerMovies\ManagerMovies.Application\obj\Debug\net6.0\ref\ManagerMovies.Application.dll
