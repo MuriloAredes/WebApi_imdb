@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Application\\ManagerMovies.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Application\\ManagerMovies.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Application\\ManagerMovies.Application.csproj",
+        "projectName": "ManagerMovies.Application",
+        "projectPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Application\\ManagerMovies.Application.csproj",
+        "packagesPath": "C:\\Users\\Muril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Contracts\\ManagerMovies.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Contracts\\ManagerMovies.Contracts.csproj"
+              },
+              "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\ManagerMovies.Domain.csproj": {
+                "projectPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\ManagerMovies.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "OmdbApiNet": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Contracts\\ManagerMovies.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Contracts\\ManagerMovies.Contracts.csproj",
+        "projectName": "ManagerMovies.Contracts",
+        "projectPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Contracts\\ManagerMovies.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Muril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\ManagerMovies.Domain.csproj": {
+                "projectPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\ManagerMovies.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\ManagerMovies.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\ManagerMovies.Domain.csproj",
+        "projectName": "ManagerMovies.Domain",
+        "projectPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\ManagerMovies.Domain.csproj",
+        "packagesPath": "C:\\Users\\Muril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muril\\OneDrive\\Área de Trabalho\\teste\\ManagerMovies\\ManagerMovies.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
