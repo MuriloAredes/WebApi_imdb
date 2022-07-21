@@ -9,6 +9,7 @@ using ManagerMovies.Contracts.Remove;
 using ManagerMovies.Contracts.Update;
 using ManagerMovies.Domain.Enum;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace ManagerMovies.Api.Controllers
 {/// <summary>
@@ -44,9 +45,8 @@ namespace ManagerMovies.Api.Controllers
         /// <param name="pageSize">Page Size</param>
         /// <param name="colunmSort">sort by column , none = 0, Name = 1, DateRelease = 2 , Genre =3  </param>
         /// <param name="isAsc">choose a column and send positive</param>
-        /// <returns></returns>
-        
-        [HttpGet("api/[controller]/GetAllMovies")]
+        /// <returns>buscart</returns>       
+        [HttpPost("api/[controller]/GetAllMovies")]
         public async Task<IActionResult> GetAllMovies(string? search, int page, int? pageSize, MovieEnum colunmSort, bool isAsc = false)
         {
             try
@@ -76,7 +76,7 @@ namespace ManagerMovies.Api.Controllers
         {
             try
             {
-                var result = await _createMovieService.CreateMovie(new RegisterMovieRequest { ImdbId = id });
+                var result = await _createMovieService.RegisterMovie(new RegisterMovieRequest { ImdbId = id });
 
                 return Ok(result);
             }

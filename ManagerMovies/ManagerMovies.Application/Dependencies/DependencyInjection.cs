@@ -4,6 +4,7 @@ using ManagerMovies.Application.Services.MovieServices.Command.Remove;
 using ManagerMovies.Application.Services.MovieServices.Command.Update;
 using ManagerMovies.Application.Services.MovieServices.Command.UpdateStatus;
 using ManagerMovies.Application.Services.MovieServices.Queries.GetAll;
+using ManagerMovies.Application.Services.SearchOmdbServices.Query.GetAllService;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace ManagerMovies.Application.Dependencies
@@ -17,6 +18,7 @@ namespace ManagerMovies.Application.Dependencies
             services.AddScoped<IUpdateMovieService, UpdateMovieService> ();
             services.AddScoped<IGetAllMoviesService, GetAllMoviesService>();
             services.AddScoped<IUpdateStatusService, UpdateStatusService>();
+            services.AddScoped<IGetAllMoviesOmdbService,GetAllMoviesOmdbService> ();
          
             return services;
         }

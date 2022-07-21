@@ -15,16 +15,15 @@ namespace ManagerMovies.Application.Services.MovieServices.Command.Create
             )
         {
             _movieRepository = movieRepository;
-
         }
 
-        public async Task<SucessMessageOrErrorResponse> CreateMovie(RegisterMovieRequest request)
+        public async Task<SucessMessageOrErrorResponse> RegisterMovie(RegisterMovieRequest request)
         {
             var omd = new AsyncOmdbClient("3a10b799");
-
+            
             if (string.IsNullOrEmpty(request.ImdbId))
                 return new SucessMessageOrErrorResponse("fill in id");
-
+            
             var item = await omd.GetItemByIdAsync(request.ImdbId);
 
             // verificar se ja é existente 

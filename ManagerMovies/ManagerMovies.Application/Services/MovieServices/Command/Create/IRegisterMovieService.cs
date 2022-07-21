@@ -5,7 +5,7 @@ namespace ManagerMovies.Application.Services.MovieServices.Command.Create
 {
     public  interface IRegisterMovieService
     {
-        Task<SucessMessageOrErrorResponse> CreateMovie(RegisterMovieRequest request);
+        Task<SucessMessageOrErrorResponse> RegisterMovie(RegisterMovieRequest request);
        
     }
 }
