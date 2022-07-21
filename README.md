@@ -9,4 +9,4 @@
 
 ## Documentacao Swagger UI rotas
 
--/api/Movie/GetAllMovie 
+- /api/Movie/GetAllMovie 
