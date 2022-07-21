@@ -46,7 +46,7 @@ namespace ManagerMovies.Api.Controllers
         /// <param name="colunmSort">sort by column , none = 0, Name = 1, DateRelease = 2 , Genre =3  </param>
         /// <param name="isAsc">choose a column and send positive</param>
         /// <returns>buscart</returns>       
-        [HttpPost("api/[controller]/GetAllMovies")]
+        [HttpGet("api/[controller]/GetAllMovies")]
         public async Task<IActionResult> GetAllMovies(string? search, int page, int? pageSize, MovieEnum colunmSort, bool isAsc = false)
         {
             try
