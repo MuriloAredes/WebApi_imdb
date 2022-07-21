@@ -26,8 +26,6 @@ namespace ManagerMovies.Application.Services.MovieServices.Command.Create
             
             var item = await omd.GetItemByIdAsync(request.ImdbId);
 
-            // verificar se ja é existente 
-
             if (item == null)
                 return new SucessMessageOrErrorResponse("incorrect id");
 
