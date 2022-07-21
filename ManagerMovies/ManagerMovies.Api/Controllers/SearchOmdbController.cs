@@ -18,6 +18,12 @@ namespace ManagerMovies.Api.Controllers
             _getAllMoviesOmdbService = getAllMoviesOmdbService;
         }
 
+
+        /// <summary>
+        /// Get by id or title and year
+        /// </summary>
+        /// <param name="request.id"> send only id</param>
+        /// <param name="request">to search for title send title and year</param>     
         [HttpPost("api/[controller]/GetAllMovies")]
         public async Task<IActionResult> GetAllMovies([FromBody] GetAllMoviesOmdRequest request)
         {
