@@ -9,4 +9,5 @@
 
 ## Documentacao Swagger UI rotas
 
-- /api/Movie/GetAllMovie 
+#para mas informacao gravei um video explicativo 
+https://screenrec.com/share/yOQkFuEWAx
