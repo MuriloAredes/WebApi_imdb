@@ -5,5 +5,3 @@
 
 ## Documentacao Swagger UI rotas
 
-## Para mas informacão gravei um video explicando como usar 
-https://screenrec.com/share/cKLnPIUEMq
